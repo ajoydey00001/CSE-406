@@ -3,4 +3,4 @@
                    encryption and decryption. The symmetric key is securely shared by the Elliptic Curve DiffieHellman key exchange method. \
 **Offline_02**-> Cross-Site Scripting (XSS) Attack \
 **Online_02** -> Buﬀer Overﬂow Attack \
-**Project on YARA** -> https://www.youtube.com/watch?v=VcS3kbYCc9A
+**Project on YARA** -> project
